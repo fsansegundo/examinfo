@@ -1,0 +1,53 @@
+---
+title: "Examen de Cálculo, GITI + GITT, ICAI."
+output:
+  slidy_presentation: 
+    includes:
+      in_header: startTime.html
+    self-contained: yes
+  ioslides_presentation:
+    includes:
+      in_header: startTime.html
+    self-contained: yes
+date: 'Miércoles 19 de Diciembre de 2023'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+---
+
+### Examen de Cálculo, GITI + GITT, ICAI  (2023-12-19).
+
+<h1>Instrucciones para el examen.</h1>
+
+<h1><div id="txt1"></div></h1>
+
+ + Todos los dispositivos electrónicos deben estar apagados y guardados. 
+ + El examen tendrá una duración de **3 horas (hasta las 14:30)**.
+ + No se puede utilizar calculadora.
+ + El examen debe hacerse con bolígrafo.
+ + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
+ + No se puede abandonar el aula durante el examen. 
+
+---
+
+### Examen de Cálculo, GITI + GITT, ICAI  (2023-12-19).
+ 
+<h1> Instrucciones de entrega del examen.</h1>
+
+<h1><div id="txt2"></div></h1>
+
+ + Una vez finalizado el examen dispondrás de  <span style = "color:black"> **15  minutos para escanear con el móvil en un único documento pdf: la portada con tu nombre, el desarrollo del examen ordenado y la Hoja Resumen (pero no los enunciados).**</span>
+ + **Nombre del documento escaneado para subir a Moodle: Apellido1_Apellido2_Nombre.pdf**
+ + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega Examen Parcial de Cálculo-19 de diciembre de 2023** (busca *Entrega de exámenes y pruebas* en la columna de la izquierda).</span>
+ + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
+ + Antes de abandonar el aula **entrega la portada y el examen en papel** al profesor para graparlo **pero no el enunciado ni la Hoja Resumen**.
+ 
+ 
+ 
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
+<!-- ##################################################################################################################### --> 
+
