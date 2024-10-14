@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = FALSE)
  + **Nombre del documento escaneado para subir a Moodle: Apellido1_Apellido2_Nombre.pdf**
  + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle** correspondiente (apartado *Entrega de exámenes y pruebas*).</span>
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
- + Antes de abandonar el aula **entrega la portada y el examen en papel** al profesor para graparlo **pero no el enunciado ni la Hoja Resumen**.
+ + Antes de abandonar el aula **entrega la portada y el examen en papel** al profesor para graparlo **pero no la Hoja Resumen**.
  
  
  
