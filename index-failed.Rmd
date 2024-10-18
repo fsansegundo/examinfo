@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de eDO, GITI + GITT, ICAI  (2024-10-18).
+### Examen de EDO, GITI + GITT, ICAI  (2024-10-18).
 
 <h1>Instrucciones para el examen.</h1>
 
