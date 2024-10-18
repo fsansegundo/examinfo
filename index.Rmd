@@ -1,5 +1,5 @@
 ---
-title: "Examen de EDO, GITI + GITT, ICAI  (2024-10-18)."
+title: "Examen de Álgebra, GITI + GITT, ICAI  (2024-10-18)."
 output:
   slidy_presentation: 
     includes:
@@ -18,36 +18,32 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de EDO, GITI + GITT, ICAI  (2024-10-18).
+### Examen de Álgebra, GITI + GITT, ICAI  (2024-10-18).
 
 <h1>Instrucciones para el examen.</h1>
 
-<h1><div id="txt1"></div></h1>
+<h1><div id="txt1" ></div></h1>
 
-+ Haz cada problema o cuestión en una hoja separada.
+ + No mezcles dos problemas en una misma hoja y procura usar hojas separadas para cada problema.
  + Todos los dispositivos electrónicos deben estar apagados y guardados. No se puede utilizar calculadora.
- + El examen tendrá una duración de **1:30 horas (hasta las 10:00)**.
+ + El examen tendrá una duración de **1:30 horas (hasta las 15:00)**.
  + El examen debe hacerse con bolígrafo.
  + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
  + No se puede abandonar el aula durante el examen. 
 
 ---
 
-### Examen de EDO, GITI + GITT, ICAI  (2024-10-18).
- 
 <h1> Instrucciones de entrega del examen.</h1>
 
 <h1><div id="txt2"></div></h1>
 
- + Una vez finalizado el examen dispondrás de  <span style = "color:black"> **10  minutos para escanear con el móvil en un único documento pdf el desarrollo del examen y la Hoja Resumen (pero no los enunciados).**</span>
- + **Para subirlo a Moodle escanea en este orden** 
+ + **Entrega en Moodle:** (en Inicio)  
+  **Escanea en este orden** 
     + **La portada con tu nombre**
     + **El examen en papel (ordenado)**  
-    + **La Hoja Resumen**.
-
- + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle** correspondiente (busca *Entrega de tareas* en la columna de la izquierda).</span>
+    + **La Hoja Resumen**.  
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
- + Antes de abandonar el aula **entrega al profesor** 
+ + Antes de abandonar el aula **entrega al profesor** para graparlo:
     + **La portada con tu nombre**
     + **El examen en papel**  
     + **NO la Hoja Resumen**.
