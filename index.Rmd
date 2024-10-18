@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h1>Instrucciones para el examen.</h1>
 
-<h1><div id="txt1" ></div></h1>
+<h1 style ="font-size: 400%;"><div id="txt1" ></div></h1>
 
  + No mezcles dos problemas en una misma hoja y procura usar hojas separadas para cada problema.
  + Todos los dispositivos electrónicos deben estar apagados y guardados. No se puede utilizar calculadora.
@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h1> Instrucciones de entrega del examen.</h1>
 
-<h1><div id="txt2"></div></h1>
+<h1 style ="font-size: 300%;"><div id="txt2"></div></h1>
 
  + **Entrega en Moodle:** (en Inicio)  
   **Escanea en este orden** 
