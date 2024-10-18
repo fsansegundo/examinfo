@@ -1,5 +1,5 @@
 ---
-title: "Examen de Cálculo, GITI + GITT, ICAI."
+title: "Examen de EDO, GITI + GITT, ICAI."
 output:
   slidy_presentation: 
      includes:
@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: 'Lunes 17 de Junio de 2024'
+date: 'Viernes 18 de Octubre de 2024'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,22 +18,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2024-06-17).
+### Examen de eDO, GITI + GITT, ICAI  (2024-10-18).
 
 <h1>Instrucciones para el examen.</h1>
 
 <h1><div id="txt1"></div></h1>
 
- + Todos los dispositivos electrónicos deben estar apagados y guardados. 
- + El examen tendrá una duración de **3 horas (hasta las 14:30)**.
- + No se puede utilizar calculadora.
++ Haz cada problema o cuestión en una hoja separada.
+ + Todos los dispositivos electrónicos deben estar apagados y guardados. No se puede utilizar calculadora.
+ + El examen tendrá una duración de **1:30 horas (hasta las 10:00)**.
  + El examen debe hacerse con bolígrafo.
  + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
  + No se puede abandonar el aula durante el examen. 
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2024-06-17).
+### Examen de eDO, GITI + GITT, ICAI  (2024-10-18).
  
 <h1> Instrucciones de entrega del examen.</h1>
 
@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
  + Una vez finalizado el examen dispondrás de  <span style = "color:black"> **10  minutos para escanear con el móvil en un único documento pdf el desarrollo del examen y la Hoja Resumen (pero no los enunciados).**</span>
  + **Nombre del documento escaneado para subir a Moodle: Apellido1_Apellido2_Nombre.pdf**
- + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega EXAMEN EXTRAORDINARIO de Cálculo - 17 de junio de 2024** (busca *Entrega de tareas* en la columna de la izquierda).</span>
+ + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle** correspondiente (busca *Entrega de tareas* en la columna de la izquierda).</span>
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
  + Antes de abandonar el aula **entrega el examen en papel** al profesor **pero no el enunciado ni la Hoja Resumen**.
  
