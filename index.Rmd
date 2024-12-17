@@ -39,11 +39,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
  + **Entrega en Moodle:** (en Inicio)  
   **Escanea en este orden** 
-    + **La portada con tu nombre**
+    + **Los enunciados con tu nombre en la parte superior**
     + **El examen en papel (ordenado)**  
     + **La Hoja Resumen**.  
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
  + Antes de abandonar el aula **entrega al profesor** para graparlo:
-    + **La portada con tu nombre**
+    + **Los enunciados con tu nombre en la parte superior**
     + **El examen en papel**  
     + **NO la Hoja Resumen**.
