@@ -1,5 +1,5 @@
 ---
-title: "Examen de Álgebra, GITI + GITT, ICAI  (2024-10-18)."
+title: "Examen de Cálculo, GITI + GITT, ICAI  (2024-12-17)."
 output:
   slidy_presentation: 
     includes:
@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: 'Viernes 18 de Octubre de 2024'
+date: 'Martes 17 de Diciembre de 2024'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Álgebra, GITI + GITT, ICAI  (2024-10-18).
+### Examen de Cálculo, GITI + GITT, ICAI  (2024-12-17).
 
 <h1>Instrucciones para el examen.</h1>
 
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
  + No mezcles dos problemas en una misma hoja y procura usar hojas separadas para cada problema.
  + Todos los dispositivos electrónicos deben estar apagados y guardados. No se puede utilizar calculadora.
- + El examen tendrá una duración de **1:30 horas (hasta las 15:00)**.
+ + El examen tendrá una duración de **3 horas (hasta las 14:30)**.
  + El examen debe hacerse con bolígrafo.
  + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
  + No se puede abandonar el aula durante el examen. 
