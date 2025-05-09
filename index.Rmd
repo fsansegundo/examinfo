@@ -1,5 +1,5 @@
 ---
-title: "Examen de Cálculo, GITI + GITT, ICAI  (2024-12-17)."
+title: "Examen de Cálculo, GITI + GITT, ICAI  (2025-05-09)."
 output:
   slidy_presentation: 
     includes:
@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: 'Martes 17 de Diciembre de 2024'
+date: 'Viernes 09 de Mayo de 2025'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2024-12-17).
+### Examen de Cálculo, GITI + GITT, ICAI  (2025-05-09).
 
 <h1>Instrucciones para el examen.</h1>
 
@@ -37,13 +37,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h1 style ="font-size: 300%;"><div id="txt2"></div></h1>
 
- + **Entrega en Moodle:** (en Inicio)  
-  **Escanea en este orden** 
-    + **Los enunciados con tu nombre en la parte superior**
-    + **El examen en papel (ordenado)**  
-    + **La Hoja Resumen**.  
+ + **Entrega en Moodle:** (en *Entrega de Exámenes y Pruebas*)  
+  **<span style="color:red">Escanea en este orden</span>** 
+    + **La <span style="color:red">portada con tu nombre</span> en la parte superior**
+    + **<span style="color:red">Tus respuestas ordenadas</span>**  
+    + **<span style="color:red">La hoja resumen</span>**.  
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
- + Antes de abandonar el aula **entrega al profesor** para graparlo:
+ + Antes de abandonar el aula **<span style="color:red">entrega al profesor</span>** para graparlo:
     + **Los enunciados con tu nombre en la parte superior**
     + **El examen en papel**  
     + **NO la Hoja Resumen**.
