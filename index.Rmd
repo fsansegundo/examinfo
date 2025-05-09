@@ -35,9 +35,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h1> Instrucciones de entrega del examen.</h1>
 
+**<span style="color:red">Dispones de 5 minutos desde el final</span>** 
+
 <h1 style ="font-size: 300%;"><div id="txt2"></div></h1>
 
- + **Entrega en Moodle:** (en *Entrega de Exámenes y Pruebas*)  
+ + **Entrega en Moodle:** (en *Entrega de [Exámenes y Pruebas](https://sifo.comillas.edu/course/view.php?id=45518#section-19)*)  
   **<span style="color:red">Escanea en este orden</span>** 
     + **La <span style="color:red">portada con tu nombre</span> en la parte superior**
     + **<span style="color:red">Tus respuestas ordenadas</span>**  
