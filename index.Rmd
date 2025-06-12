@@ -1,5 +1,5 @@
 ---
-title: "Examen de Cálculo, GITI + GITT, ICAI."
+title: "Examen de Cálculo, GITI + GITT, ICAI  (2025-05-09)."
 output:
   slidy_presentation: 
     includes:
@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: 'Vieernes 13 de Junio de 2025'
+date: 'Viernes 09 de Mayo de 2025'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,36 +18,34 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2025-06-13).
+### Examen de Cálculo, GITI + GITT, ICAI  (2025-05-09).
 
 <h1>Instrucciones para el examen.</h1>
 
-<h1><div id="txt1"></div></h1>
+<h1 style ="font-size: 400%;"><div id="txt1" ></div></h1>
 
- + Todos los dispositivos electrónicos deben estar apagados y guardados. 
+ + No mezcles dos problemas en una misma hoja y procura usar hojas separadas para cada problema.
+ + Todos los dispositivos electrónicos deben estar apagados y guardados. No se puede utilizar calculadora.
  + El examen tendrá una duración de **3 horas (hasta las 14:30)**.
- + No se puede utilizar calculadora.
  + El examen debe hacerse con bolígrafo.
  + Puedes usar una *Hoja Resumen* de tamaño A4 en color, con fórmulas o contenidos teóricos, pero no problemas resueltos ni planteamientos de problemas.
  + No se puede abandonar el aula durante el examen. 
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2025-06-13).
- 
 <h1> Instrucciones de entrega del examen.</h1>
 
-<h1><div id="txt2"></div></h1>
+**<span style="color:red">Dispones de 5 minutos desde el final</span>** 
 
- + Una vez finalizado el examen dispondrás de  <span style = "color:black"> **5  minutos para escanear con el móvil en un único documento pdf: la portada con tu nombre, el desarrollo del examen ordenado y la Hoja Resumen (pero no los enunciados).**</span>
- + **Nombre del documento escaneado para subir a Moodle: Apellido1Apellido2Nombre.pdf**
- + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega examen extraordinario de Cálculo - 13 de junio de 2025** (busca *Entrega de exámenes y pruebas* en la columna de la izquierda).</span>
+<h1 style ="font-size: 300%;"><div id="txt2"></div></h1>
+
+ + **Entrega en Moodle:** (en *Entrega de [Exámenes y Pruebas](https://sifo.comillas.edu/course/view.php?id=45518#section-19)*)  
+  **<span style="color:red">Escanea en este orden</span>** 
+    + **La <span style="color:red">portada con tu nombre</span> en la parte superior**
+    + **<span style="color:red">Tus respuestas ordenadas</span>**  
+    + **<span style="color:red">La hoja resumen</span>**.  
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
- + Antes de abandonar el aula **entrega la portada y el examen en papel** al profesor para graparlo **pero NO la Hoja Resumen**.
- 
- 
- 
-<!-- ##################################################################################################################### --> 
-<!-- ##################################################################################################################### --> 
-<!-- ##################################################################################################################### --> 
-
+ + Antes de abandonar el aula **<span style="color:red">entrega al profesor</span>** para graparlo:
+    + **Los enunciados con tu nombre en la parte superior**
+    + **El examen en papel**  
+    + **NO la Hoja Resumen**.
