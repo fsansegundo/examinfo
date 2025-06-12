@@ -1,3 +1,3 @@
-# mayo2023_examinfo
+# examinfo
 
-Instrucciones para el examen de Cálculo, mayo 2023 ICAI
+Instrucciones para proyectar en las aulas durante los exámenes, con reloj incorporado.

@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: 'Miércoles 19 de Diciembre de 2023'
+date: 'Vieernes 13 de Junio de 2025'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2023-12-19).
+### Examen de Cálculo, GITI + GITT, ICAI  (2025-06-13).
 
 <h1>Instrucciones para el examen.</h1>
 
@@ -33,17 +33,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2023-12-19).
+### Examen de Cálculo, GITI + GITT, ICAI  (2025-06-13).
  
 <h1> Instrucciones de entrega del examen.</h1>
 
 <h1><div id="txt2"></div></h1>
 
- + Una vez finalizado el examen dispondrás de  <span style = "color:black"> **15  minutos para escanear con el móvil en un único documento pdf: la portada con tu nombre, el desarrollo del examen ordenado y la Hoja Resumen (pero no los enunciados).**</span>
- + **Nombre del documento escaneado para subir a Moodle: Apellido1_Apellido2_Nombre.pdf**
- + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega Examen Parcial de Cálculo-19 de diciembre de 2023** (busca *Entrega de exámenes y pruebas* en la columna de la izquierda).</span>
+ + Una vez finalizado el examen dispondrás de  <span style = "color:black"> **5  minutos para escanear con el móvil en un único documento pdf: la portada con tu nombre, el desarrollo del examen ordenado y la Hoja Resumen (pero no los enunciados).**</span>
+ + **Nombre del documento escaneado para subir a Moodle: Apellido1Apellido2Nombre.pdf**
+ + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega examen extraordinario de Cálculo - 13 de junio de 2025** (busca *Entrega de exámenes y pruebas* en la columna de la izquierda).</span>
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
- + Antes de abandonar el aula **entrega la portada y el examen en papel** al profesor para graparlo **pero no el enunciado ni la Hoja Resumen**.
+ + Antes de abandonar el aula **entrega la portada y el examen en papel** al profesor para graparlo **pero NO la Hoja Resumen**.
  
  
  
