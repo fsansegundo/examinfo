@@ -9,7 +9,7 @@ output:
     includes:
       in_header: startTime.html
     self-contained: yes
-date: 'Lunes 15 de Diciembre de 2025'
+date: 'Viernes 6 de Marzo de 2026, 13:30-15:00'
 ---
 
 ```{r setup, include=FALSE}
@@ -18,29 +18,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2025-12-15).
+### Examen de Cálculo, GITI + GITT, ICAI  (2026-03-06, 13:30).
 
 <h1>Instrucciones para el examen.</h1>
 
 <h1><div id="txt1"></div></h1>
 
  + Todos los dispositivos electrónicos deben estar apagados y guardados. 
- + El examen tendrá una duración de **2 horas y 45 minutos. (hasta las 14:15)**.
+ + El examen tendrá una duración de **1 horas y 30 minutos. (hasta las 15:00)**.
  + No se puede utilizar calculadora.
  + El examen debe hacerse con bolígrafo.
  + No se puede abandonar el aula durante el examen. 
 
 ---
 
-### Examen de Cálculo, GITI + GITT, ICAI  (2025-12-15).
+### Examen de Cálculo, GITI + GITT, ICAI  (2026-03-06, 13:30).
  
 <h1> Instrucciones de entrega del examen.</h1>
 
 <h1><div id="txt2"></div></h1>
 
- + Una vez finalizado el examen dispondrás de unos  minutos para  <span style = "color:black"> **escanear con el móvil en un único documento pdf: la portada con tu nombre y el desarrollo del examen ordenado. No hace falta escanear la Hoja Resumen.**</span>
+ + Una vez finalizado el examen dispondrás de 10  minutos para  <span style = "color:black"> **escanear con el móvil en un único documento pdf: la portada con tu nombre y el desarrollo del examen ordenado. No hace falta escanear la Hoja Resumen.**</span>
  + **Nombre del documento escaneado para subir a Moodle: Apellido1Apellido2Nombre.pdf**
- + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega Examen Parcial de Cálculo - 15 de diciembre de 2025** (busca *Entrega de exámenes y pruebas* en la columna de la izquierda).</span>
+ + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega 2º Examen Intercuatrimestral de Cálculo - 6 de marzo de 2026** (busca *Entrega de exámenes y pruebas* en la columna de la izquierda).</span>
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
  + Antes de abandonar el aula **entrega la portada con tu nombre en el sitio indicado y el examen en papel** al profesor para graparlo **pero NO la Hoja Resumen**.
  
