@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h1><div id="txt2"></div></h1>
 
- + Una vez finalizado el examen dispondrás de 10  minutos para  <span style = "color:black"> **escanear con el móvil en un único documento pdf: la portada con tu nombre y el desarrollo del examen ordenado. No hace falta escanear la Hoja Resumen.**</span>
+ + Una vez finalizado el examen dispondrás de 10  minutos para  <span style = "color:black"> **escanear con el móvil en un único documento pdf: la portada con tu nombre y el desarrollo del examen ordenado. No hace falta escanear la Hoja Resumen ni el dorso de los enunciados.**</span>
  + **Nombre del documento escaneado para subir a Moodle: Apellido1Apellido2Nombre.pdf**
  + <span style = "color:black"> Debes subir el examen escaneado a la **tarea de Moodle:  Entrega 2º Examen Intercuatrimestral de Cálculo - 6 de marzo de 2026** (busca *Entrega de exámenes y pruebas* en la columna de la izquierda).</span>
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
