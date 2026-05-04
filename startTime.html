@@ -23,6 +23,17 @@ function startTime2() {
   setTimeout(startTime2, 1000);
 }
 
+function startTime3() {
+  const today2 = new Date();
+  let h = today2.getHours();
+  let m = today2.getMinutes();
+  let s = today2.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt3').innerHTML =  h + ":" + m + ":" + s;
+  setTimeout(startTime2, 1000);
+}
+
 
 function startTime3() {
   const today3 = new Date();
