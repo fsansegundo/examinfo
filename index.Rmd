@@ -62,7 +62,7 @@ knitr::opts_chunk$set(echo = FALSE)
  + Debes subir el examen escaneado a la <span style = "color:red">**tarea de Moodle correspondiente**</span>
     + **Entrega EXAMEN FINAL de Cálculo - 4 de mayo de 2026**  
     + **Entrega 2º EXAMEN PARCIAL de Cálculo - 4 de mayo de 2026**  
-    Busca *Entrega de exámenes y pruebas* en la columna de la izquierda).
+    (Busca *Entrega de exámenes y pruebas* en la columna de la izquierda).
  + Si tienes problemas para subir el documento escaneado a Moodle, envíalo por correo electrónico a tu profesor lo antes posible. 
  + Antes de abandonar el aula <span style = "color:red">**entrega la portada con tu nombre en el sitio indicado y el examen en papel**</span> al profesor para graparlo **pero NO la Hoja Resumen**.
  
