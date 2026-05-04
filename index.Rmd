@@ -38,6 +38,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <h1>Instrucciones para el examen.</h1>
 
+<div style="font-weight:600;color:red;font-size:150%">
+Ejercicio 5b del final debe decir: $y = 2 \operatorname{sen}^3 t$ (al cubo, no a la quinta)
+</div>
+
+
 <h1><div id="txt2"></div></h1>
 
  + Todos los dispositivos electrónicos deben estar apagados y guardados. 
